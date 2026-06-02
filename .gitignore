@@ -1,0 +1,20 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Temporary and backup files
+*.tmp
+*.bak
+*.backup
+*.old
+
+# PSIM temporary/output files
+*.log
+*.txt
+*.dat
+*.smv
+*.ini
+
+# Simulation outputs
+results/raw/
+results/temp/
